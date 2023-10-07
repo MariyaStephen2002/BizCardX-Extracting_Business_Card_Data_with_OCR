@@ -1,0 +1,10 @@
+!pip install streamlit
+!pip install streamlit_option_menu
+!pip install streamlit --upgrade
+!pip install easyocr
+!pip install -q streamlit
+!pip install pyngrok
+!pip install pandas
+!pip install pillow
+!pip install matplotlib
+
