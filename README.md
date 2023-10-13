@@ -10,8 +10,7 @@
 
 
 
-
-                                                RUN ->packages -> bizcard.py -> Streamlit Run 
+                                            RUN ->packages -> bizcard.py -> Streamlit Run 
                                                 run each in sepearte collab cell
 
 Certainly! The provided program is a Streamlit web application called "BizCardX" designed for extracting information from business cards using OCR (Optical Character Recognition). Let's break down the main components and functionality of the program:
