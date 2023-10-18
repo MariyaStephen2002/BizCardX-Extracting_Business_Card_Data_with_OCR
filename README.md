@@ -16,17 +16,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
                                      RUN ->packages -> bizcard.py -> Streamlit Run 
                                                 run each in sepearte collab cell
 
